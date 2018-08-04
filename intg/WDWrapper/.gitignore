@@ -1,0 +1,5 @@
+WDo*.jar
+installer/
+bin/
+/target/
+!survey/*.csv

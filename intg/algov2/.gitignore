@@ -1,0 +1,6 @@
+!LinkRules.csv
+!LinkTypeDefinitions.csv
+!AgentLinkConditions.csv
+!InverseLinks.csv
+*.obj
+*.txt

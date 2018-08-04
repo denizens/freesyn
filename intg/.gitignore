@@ -1,0 +1,11 @@
+target/
+bin/
+*.log
+*/src/test/
+*.log.*
+*.obj
+*.lzma
+*.classpath
+*.project
+*.settings
+*.csv
