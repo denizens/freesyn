@@ -124,7 +124,6 @@
 		<module>algov2</module>
 		<module>algov1</module>
 		<module>apps</module>
-    <module>integraionserver</module>
 <!-- <module>WDWrapper</module> -->
 	</modules>
 </project>
